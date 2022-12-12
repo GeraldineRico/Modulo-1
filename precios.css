@@ -1,0 +1,41 @@
+.logo{
+    width: 200px;
+}
+
+footer{
+    background: white;
+    border-top: solid 1px gray;
+    bottom: 0px;
+    position: relative;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+footer h6{
+    font-size: 11px;
+    margin: 15px;
+    color: black;
+}
+
+#navegacion{
+    background: white;
+    border-bottom: solid 1px gray;
+}
+
+.card-header{
+    background: #0092cf;
+    color: white;
+    border: none;
+}
+
+.container a{
+    background:  #0092cf;
+}
+
+.container a:hover{
+    background:  #419c50;
+    border:  #419c50;
+}
